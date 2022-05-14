@@ -1,16 +1,36 @@
-### Hi there 👋
+# 🥶 Hi >_
 
-<!--
-**AdiCahyaSaputra/AdiCahyaSaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>:indonesia: Adi Cahya Saputra 17 y.o</b>
+<br>
+<p>Vocational High School | Software Engineer</p>
+<br>
+<code>Programmer</code> but I am still good at CODM. wanna try <b>1v1</b> Snipe ?
+🗿
+<br>
+<br>
+<b>Frontend Tech Stack</b>
+<ul>
+<li>NextJs</li>
+<li>Tailwindcss</li>
+</ul>
+<br>
+<b>Backend Tech Stack</b>
+<ul>
+<li>Laravel</li>
+<li>Nodejs</li>
+</ul>
 
-Here are some ideas to get you started:
+<br>
+<b>UI & UX Design</b>
+<ul>
+<li>Figma</li>
+<li>Adobe XD</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<strong>| Programming Language |</strong>
+<br>
+<code>Javascript</code> 
+<code>PHP</code>
+<code>Typescript</code> <br>
+<code>Python (Basic)</code>
