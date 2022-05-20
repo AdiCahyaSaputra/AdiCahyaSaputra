@@ -18,6 +18,7 @@
 <ul>
 <li>Laravel</li>
 <li>Nodejs</li>
+<li>Spring Boot (Otw)</li>
 </ul>
 
 <br>
@@ -34,3 +35,4 @@
 <code>PHP</code>
 <code>Typescript</code> <br>
 <code>Python (Basic)</code>
+<code>Java (Otw)</code>
