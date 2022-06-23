@@ -6,27 +6,27 @@
 <br>
 <code>Programmer</code> but I am still good at CODM. wanna try <b>1v1</b> Snipe ?
 🗿
+<br><br>
+<b>Daily IDE</b>
+<br><br>
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 <br>
 <br>
 <b>Frontend Tech Stack</b>
-<ul>
-<li>NextJs</li>
-<li>Tailwindcss</li>
-</ul>
+<br><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <br>
 <b>Backend Tech Stack</b>
-<ul>
-<li>Laravel</li>
-<li>Nodejs</li>
-<li>Spring Boot (Otw)</li>
-</ul>
+<br><br>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 <br>
 <b>UI & UX Design</b>
-<ul>
-<li>Figma</li>
-<li>Adobe XD</li>
-</ul>
+<br><br>
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 
 <br>
 <strong>| Programming Language |</strong>
