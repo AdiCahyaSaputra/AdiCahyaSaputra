@@ -29,10 +29,7 @@
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <br>
-<strong>| Programming Language |</strong>
-<br>
-<code>Javascript</code> 
-<code>PHP</code>
-<code>Typescript</code> <br>
-<code>Python (Basic)</code>
-<code>Java (Otw)</code>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiCahyaSaputra&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCahyaSaputra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
