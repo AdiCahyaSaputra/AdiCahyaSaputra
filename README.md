@@ -1,4 +1,4 @@
-# 🥶 Hi >_
+# 🥶 Hi Bruhh >_
 
 :indonesia: Adi Cahya Saputra 17 y.o
 
