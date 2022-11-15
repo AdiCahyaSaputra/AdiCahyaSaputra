@@ -4,7 +4,7 @@
 
 Vocational High School | Software Engineer
 
-`Programmer` but I am still good at CODM. wanna try <b>1v1</b> Snipe ?
+I am still good at CODM. wanna try <b>1v1</b> Snipe ?
 🗿
 
 [whoami?](https://adi-cahya-saputra.vercel.app)
