@@ -7,7 +7,7 @@ Vocational High School | Software Engineer
 I am still good at CODM. wanna try <b>1v1</b> Snipe ?
 🗿
 
-[whoami?](https://adi-cahya-saputra.vercel.app)
+[whoami?](https://adics.vercel.app)
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiCahyaSaputra&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
