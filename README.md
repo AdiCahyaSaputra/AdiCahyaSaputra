@@ -4,9 +4,6 @@
 
 Vocational High School | Software Engineer
 
-I am still good at CODM. wanna try <b>1v1</b> Snipe ?
-🗿
-
 [whoami?](https://adics.vercel.app)
 <br>
 
