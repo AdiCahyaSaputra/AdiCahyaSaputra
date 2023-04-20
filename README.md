@@ -1,5 +1,7 @@
 # 👋 
 
+<p><img src="https://komarev.com/ghpvc/?username=AdiCahyaSaputra&label=Profile%20views&color=dc2626&style=flat" alt="Adics" /></p>
+
 :indonesia: Adi Cahya Saputra 17 y.o
 
 Vocational High School | Software Engineer
