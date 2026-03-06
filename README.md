@@ -5,4 +5,4 @@
 - Tentang [diriku](https://adics.xyz)
 - Rajin ngoding di [gitlab](https://gitlab.com/adics631)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiCahyaSaputra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-one-fawn-68.vercel.app/api/top-langs/?username=AdiCahyaSaputra&layout=compact&theme=tokyonight)
